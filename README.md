@@ -51,9 +51,3 @@ This project demonstrates a sales analysis dashboard for a coffee shop, built us
 - **Microsoft Excel**: Data import and basic cleaning.  
 - **MySQL**: Data validation and advanced querying.  
 
----
-
-## 📬 **Contact**  
-If you have any queries or feedback, feel free to reach out!  
-**Email**: bhuvanharithsa@gmail.com  
-**LinkedIn**: https://www.linkedin.com/in/bhuvan-v-778ba7299/
